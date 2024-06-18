@@ -16,7 +16,7 @@ const OFFLINE_URL = '/index.html';
 const ASSETS = [
     '/',
     '/index.html',
-    '/assets/js/index.js'
+    '/assets/js/index.js',
     '/assets/-dy/client.js',
     '/assets/-dy/config.js',
     '/assets/-dy/handler.js',
